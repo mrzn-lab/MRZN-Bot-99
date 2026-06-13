@@ -134,7 +134,7 @@
 
   "Security": {
     "caesar": { "caeserPassword": "123456" },
-    "log": { "enable": true },
+    "log": { "enable": false },
     "god": { "enable": true }
   }
 }
