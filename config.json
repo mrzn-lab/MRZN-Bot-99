@@ -5,7 +5,7 @@
   "DeveloperMode": false,
   "autoCreateDB": true,
   "autoClean": true,
-  "allowInbox": false,
+  "allowInbox": true,
   "notiGroup": true,
   "NOTIFICATION": true,
   "EMAIL": "your email",
@@ -69,7 +69,7 @@
     "autoMarkRead": false,
     "autoReconnect": true,
     "logRecordSize": 100,
-    "online": false,
+    "online": true,
     "emitReady": false,
     "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A356E Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
